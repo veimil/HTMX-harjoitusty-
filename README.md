@@ -1,4 +1,4 @@
-Harjoitustyö HTMX:llä (Net Ninja - HTMX for Beginners https://www.youtube.com/@NetNinja/playlists)
+Harjoitustyö HTMX:llä Net Ninja - HTMX for Beginners -tutoriaalin pohjalta https://youtube.com/playlist?list=PL4cUxeGkcC9gnEsXRqdY4e_xNy9GK7aQR&si=A9SvT0YcIPAZRcCz)
 
 This project was about using basic HTMX-syntax to create an application for displaying, adding, deleting, and searching books. The app uses express to handle requests, and combines the HTML-page dynamically using HTMX. I have commented the program and syntax logic into the files for learning purposes
 
